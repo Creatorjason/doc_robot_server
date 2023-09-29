@@ -70,7 +70,6 @@ pyOpenSSL==19.0.0
 pypandoc==1.11
 pyrsistent==0.15.5
 pyserial==3.4
-python-apt==2.0.0
 python-dateutil==2.8.2
 python-debian===0.1.36ubuntu1
 python-docx==0.8.11
